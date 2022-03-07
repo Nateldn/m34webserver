@@ -1,0 +1,24 @@
+{
+  "name": "m34webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nateldn/m34webserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nateldn/m34webserver/issues"
+  },
+  "homepage": "https://github.com/Nateldn/m34webserver#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
